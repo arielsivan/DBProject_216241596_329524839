@@ -1,1 +1,250 @@
-
+1, 351, Saar me-Golan
+2, 352, Barak
+3, 353, Iron tails
+4, 354, Sons of light
+5, 355, Utzvat HaPlada
+6, 356, Ikvot HaBarzel
+7, 357, Bnei Or
+8, 358, Kiryati
+9, 359, Machatz
+10, 360, Ram
+11, 361, Iron Fist
+12, 362, Yiftach
+13, 363, Sinai
+14, 364, Harel
+15, 365, Kvir
+16, 366, Hazaken
+17, 367, Star of light
+18, 368, Yishai
+19, 369, Fire's Chariots 
+20, 370, Galloping Horse
+21, 371, Yerushalaim
+22, 372, Rays of fire
+23, 373, Oranim
+24, 374, Kela
+25, 375, Arrow
+26, 376, Bnei Reshef
+27, 377, Eshet
+28, 378, Lavi
+29, 379, Adirim
+30, 380, Shachar
+31, 381, Stars of fire
+32, 382, Netivei Esh
+33, 383, Etzion Gever
+34, 384, Hatzlicha
+35, 385, Tzavim
+36, 386, Bazka
+37, 387, Fist and spear
+38, 388, Mapatz
+39, 389, Hamud HaEsh
+40, 390, Lahavot HaEsh
+41, 391, Etgar
+42, 392, Gaash
+43, 393, Saar me-Golan 2
+44, 394, Barak 2
+45, 395, Iron tails 2
+46, 396, Sons of light 2
+47, 397, Utzvat HaPlada 2
+48, 398, Ikvot HaBarzel 2
+49, 399, Bnei Or 2
+50, 400, Kiryati 2
+51, 401, Machatz 2
+52, 402, Ram 2
+53, 403, Iron Fist 2
+54, 404, Yiftach 2
+55, 405, Sinai 2
+56, 406, Harel 2
+57, 407, Kvir 2
+58, 408, Hazaken 2
+59, 409, Star of light 2
+60, 410, Yishai 2
+61, 411, Fire's Chariots  2
+62, 412, Galloping Horse 2
+63, 413, Yerushalaim 2
+64, 414, Rays of fire 2
+65, 415, Oranim 2
+66, 416, Kela 2
+67, 417, Arrow 2
+68, 418, Bnei Reshef 2
+69, 419, Eshet 2
+70, 420, Lavi 2
+71, 421, Adirim 2
+72, 422, Shachar 2
+73, 423, Stars of fire 2
+74, 424, Netivei Esh 2
+75, 425, Etzion Gever 2
+76, 426, Hatzlicha 2
+77, 427, Tzavim 2
+78, 428, Bazka 2
+79, 429, Fist and spear 2
+80, 430, Mapatz 2
+81, 431, Hamud HaEsh 2
+82, 432, Lahavot HaEsh 2
+83, 433, Etgar 2
+84, 434, Gaash 2
+85, 435, Saar me-Golan 3
+86, 436, Barak 3
+87, 437, Iron tails 3
+88, 438, Sons of light 3
+89, 439, Utzvat HaPlada 3
+90, 440, Ikvot HaBarzel 3
+91, 441, Bnei Or 3
+92, 442, Kiryati 3
+93, 443, Machatz 3
+94, 444, Ram 3
+95, 445, Iron Fist 3
+96, 446, Yiftach 3
+97, 447, Sinai 3
+98, 448, Harel 3
+99, 449, Kvir 3
+100, 450, Hazaken 3
+101, 451, Star of light 3
+102, 452, Yishai 3
+103, 453, Fire's Chariots 3
+104, 454, Galloping Horse 3
+105, 455, Yerushalaim 3
+106, 456, Rays of fire 3
+107, 457, Oranim 3
+108, 458, Kela 3
+109, 459, Arrow 3
+110, 460, Bnei Reshef 3
+111, 461, Eshet 3
+112, 462, Lavi 3
+113, 463, Adirim 3
+114, 464, Shachar 3
+115, 465, Stars of fire 3
+116, 466, Netivei Esh 3
+117, 467, Etzion Gever 3
+118, 468, Hatzlicha 3
+119, 469, Tzavim 3
+120, 470, Bazka 3
+121, 471, Fist and spear 3
+122, 472, Mapatz 3
+123, 473, Hamud HaEsh 3
+124, 474, Lahavot HaEsh 3
+125, 475, Etgar 3
+126, 476, Gaash 3
+127, 477, Saar me-Golan 4
+128, 478, Barak 4
+129, 479, Iron tails 4
+130, 480, Sons of light 4
+131, 481, Utzvat HaPlada 4
+132, 482, Ikvot HaBarzel 4
+133, 483, Bnei Or 4
+134, 484, Kiryati 4
+135, 485, Machatz 4
+136, 486, Ram 4
+137, 487, Iron Fist 4
+138, 488, Yiftach 4
+139, 489, Sinai 4
+140, 490, Harel 4
+141, 491, Kvir 4
+142, 492, Hazaken 4
+143, 493, Star of light 4
+144, 494, Yishai 4
+145, 495, Fire's Chariots  4
+146, 496, Galloping Horse 4
+147, 497, Yerushalaim 4
+148, 498, Rays of fire 4
+149, 499, Oranim 4
+150, 500, Kela 4
+151, 501, Arrow 4
+152, 502, Bnei Reshef 4
+153, 503, Eshet 4
+154, 504, Lavi 4
+155, 505, Adirim 4
+156, 506, Shachar 4
+157, 507, Stars of fire 4
+158, 508, Netivei Esh 4
+159, 509, Etzion Gever 4
+160, 510, Hatzlicha 4
+161, 511, Tzavim 4
+162, 512, Bazka 4
+163, 513, Fist and spear 4
+164, 514, Mapatz 4
+165, 515, Hamud HaEsh 4
+166, 516, Lahavot HaEsh 4
+167, 517, Etgar 4
+168, 518, Gaash 4
+169, 519, Saar me-Golan 5
+170, 520, Barak 5
+171, 521, Iron tails 5
+172, 522, Sons of light 5
+173, 523, Utzvat HaPlada 5
+174, 524, Ikvot HaBarzel 5
+175, 525, Bnei Or 5
+176, 526, Kiryati 5
+177, 527, Machatz 5
+178, 528, Ram 5
+179, 529, Iron Fist 5
+180, 530, Yiftach 5
+181, 531, Sinai 5
+182, 532, Harel 5
+183, 533, Kvir 5
+184, 534, Hazaken 5
+185, 535, Star of light 5
+186, 536, Yishai 5
+187, 537, Fire's Chariots  5
+188, 538, Galloping Horse 5
+189, 539, Yerushalaim 5
+190, 540, Rays of fire 5
+191, 541, Oranim 5
+192, 542, Kela 5
+193, 543, Arrow 5
+194, 544, Bnei Reshef 5
+195, 545, Eshet 5
+196, 546, Lavi 5
+197, 547, Adirim 5
+198, 548, Shachar 5
+199, 549, Stars of fire 5
+200, 550, Netivei Esh 5
+201, 551, Etzion Gever 5
+202, 552, Hatzlicha 5
+203, 553, Tzavim 5
+204, 554, Bazka 5
+205, 555, Fist and spear 5
+206, 556, Mapatz 5
+207, 557, Hamud HaEsh 5
+208, 558, Lahavot HaEsh 5
+209, 559, Etgar 5
+210, 560, Gaash 5
+211, 561, Saar me-Golan 6
+212, 562, Barak 6
+213, 563, Iron tails 6
+214, 564, Sons of light 6
+215, 565, Utzvat HaPlada 6
+216, 566, Ikvot HaBarzel 6
+217, 567, Bnei Or 6
+218, 568, Kiryati 6
+219, 569, Machatz 6
+220, 570, Ram 6
+221, 571, Iron Fist 6
+222, 572, Yiftach 6
+223, 573, Sinai 6
+224, 574, Harel 6
+225, 575, Kvir 6
+226, 576, Hazaken 6
+227, 577, Star of light 6
+228, 578, Yishai 6
+229, 579, Fire's Chariots  6
+230, 580, Galloping Horse 6
+231, 581, Yerushalaim 6
+232, 582, Rays of fire 6
+233, 583, Oranim 6
+234, 584, Kela 6
+235, 585, Arrow 6
+236, 586, Bnei Reshef 6
+237, 587, Eshet 6
+238, 588, Lavi 6
+239, 589, Adirim 6
+240, 590, Shachar 6
+241, 591, Stars of fire 6
+242, 592, Netivei Esh 6
+243, 593, Etzion Gever 6
+244, 594, Hatzlicha 6
+245, 595, Tzavim 6
+246, 596, Bazka 6
+247, 597, Fist and spear 6
+248, 598, Mapatz 6
+249, 599, Hamud HaEsh 6
+250, 600, Lahavot HaEsh 6
