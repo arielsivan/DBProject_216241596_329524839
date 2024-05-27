@@ -17,7 +17,7 @@ def generate_sql_insert_statements(table_name, data):
     return sql_statements
 
 # Generate data
-num_records = 1320  # Number of records we want to generate
+num_records = 1400  # Number of records we want to generate
 crewmate_data = generate_crewmate_data(num_records)
 
 # Generate SQL insert statements
