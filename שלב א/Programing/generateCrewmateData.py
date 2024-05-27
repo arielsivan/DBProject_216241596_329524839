@@ -21,4 +21,4 @@ num_records = 1320  # Number of records we want to generate
 crewmate_data = generate_crewmate_data(num_records)
 
 # Generate SQL insert statements
-sql_statements = generate_sql_insert_statements('CREWMATE', rewmate_data)
+sql_statements = generate_sql_insert_statements('CREWMATE', crewmate_data)
