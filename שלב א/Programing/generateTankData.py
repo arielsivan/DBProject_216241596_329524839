@@ -3,8 +3,8 @@ import random
 def generate_tank_data(num_records):
     data = []
     for x in range(num_records):
-        id = x
-        cid = x
+        id = x + 1
+        cid = x + 1
         unid = random.randrange(1,250) # getting the id of the unit
         data.append((id,cid, unid))
     return data
