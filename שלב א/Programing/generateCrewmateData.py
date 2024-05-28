@@ -4,7 +4,7 @@ def generate_crewmate_data(num_records):
     data = []
     for x in range(num_records):
         id = x + 601
-        cid = int((id - 600) / 3 ) + 1; # getting the id of the commander
+        cid = int((id - 601) / 3 ) + 1; # getting the id of the commander
         type = types[x % 3 ]
         data.append((id,cid, type))
     return data
