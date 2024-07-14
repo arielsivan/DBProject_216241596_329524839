@@ -1,10 +1,9 @@
-CREATE OR REPLACE PROCEDURE AssignTankToUnit (
+create or replace procedure AssignTankToUnit( 
   p_tID NUMBER,
   p_unID NUMBER,
-  p_tankInfo OUT SYS_REFCURSOR
-) IS
-BEGIN
-  -- עדכון יחידת הטנק
+  p_tankInfo OUT SYS_REFCURSOR) is
+begin
+    -- עדכון יחידת הטנק
   UPDATE TANK
   SET unID = p_unID
   WHERE tID = p_tID;
@@ -23,7 +22,4 @@ EXCEPTION
   WHEN OTHERS THEN
     ROLLBACK;
     DBMS_OUTPUT.PUT_LINE('Error: ' || SQLERRM);
-END AssignTankToUnit;
-/
-
-
+end AssignTankToUnit;
