@@ -1,18 +1,20 @@
+PL/SQL Developer Test script 3.0
+41
 DECLARE
-  v_units SYS.ODCINUMBERLIST := SYS.ODCINUMBERLIST(1, 2, 3); -- ΧΧΆΧ¨Χ ΧΧ–Χ”Χ™ Χ™Χ—Χ™Χ“Χ•Χª ΧΧ“Χ•Χ’ΧΧ”
+  v_units SYS.ODCINUMBERLIST := SYS.ODCINUMBERLIST(1, 2, 3); -- ξςψκ ξζδι ιηιγεϊ μγεβξδ
   v_soldiersCount SYS.ODCINUMBERLIST;
-  v_missionDate DATE := SYSDATE; -- ΧªΧΧ¨Χ™Χ Χ”ΧΧ©Χ™ΧΧ”
+  v_missionDate DATE := SYSDATE; -- ϊΰψικ δξωιξδ
   v_totalSoldiers NUMBER := 0;
   v_maxSoldiersUnit NUMBER := 0;
   v_maxSoldiersCount NUMBER := 0;
 BEGIN
-  -- Χ™Χ¦Χ™Χ¨Χª ΧΧ©Χ™ΧΧ” Χ—Χ“Χ©Χ” ΧΆΧ Χ”Χ™Χ—Χ™Χ“Χ•Χª Χ”Χ ΧªΧ•Χ Χ•Χª
+  -- ιφιψϊ ξωιξδ ηγωδ ςν διηιγεϊ δπϊεπεϊ
   CreateNewMissionWithUnits(v_units, v_missionDate);
   
-  -- Χ§Χ‘ΧΧª ΧΧ΅Χ¤Χ¨ Χ”Χ—Χ™Χ™ΧΧ™Χ Χ‘Χ›Χ Χ™Χ—Χ™Χ“Χ”
+  -- χαμϊ ξρτψ δηιιμιν αλμ ιηιγδ
   v_soldiersCount := CountSoldiersInUnits(v_units);
   
-  -- Χ—Χ™Χ©Χ•Χ‘Χ™Χ Χ•Χ”Χ¦Χ’Χª ΧΧ΅Χ¤Χ¨ Χ”Χ—Χ™Χ™ΧΧ™Χ Χ‘Χ›Χ Χ™Χ—Χ™Χ“Χ”
+  -- ηιωεαιν εδφβϊ ξρτψ δηιιμιν αλμ ιηιγδ
   FOR i IN 1..v_soldiersCount.COUNT LOOP
     DBMS_OUTPUT.PUT_LINE('Unit ' ||
         v_units(i) ||
@@ -28,14 +30,16 @@ BEGIN
     END IF;
   END LOOP;
   
-  -- Χ”Χ¦Χ’Χª Χ΅Χ Χ›Χ Χ”Χ—Χ™Χ™ΧΧ™Χ
+  -- δφβϊ ρκ λμ δηιιμιν
   DBMS_OUTPUT.PUT_LINE('Total soldiers in mission: ' ||
     v_totalSoldiers);
   
-  -- Χ”Χ¦Χ’Χª Χ”Χ™Χ—Χ™Χ“Χ” ΧΆΧ ΧΧ΅Χ¤Χ¨ Χ”Χ—Χ™Χ™ΧΧ™Χ Χ”Χ’Χ‘Χ•Χ” Χ‘Χ™Χ•ΧªΧ¨
+  -- δφβϊ διηιγδ ςν ξρτψ δηιιμιν δβαεδ αιεϊψ
   DBMS_OUTPUT.PUT_LINE('Unit with most soldiers: ' ||
     v_maxSoldiersUnit || 
     ' (' || 
     v_maxSoldiersCount || 
     ' soldiers)');
 END;
+0
+0
